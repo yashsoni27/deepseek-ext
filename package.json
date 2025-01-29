@@ -13,8 +13,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "deepseek-ext.hiMom",
-        "title": "Run Hi Mom"
+        "command": "deepseek-ext.start",
+        "title": "Chat with DeepSeek"
       }
     ]
   },
